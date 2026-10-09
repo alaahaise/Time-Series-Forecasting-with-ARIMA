@@ -4,7 +4,8 @@ A Python project that uses the ARIMA model to analyze time series data and forec
 
 ## Project Preview
 
-![ARIMA Forecast](images/arima-forecast.png)
+<img width="994" height="497" alt="ARima forcast" src="https://github.com/user-attachments/assets/a21426c8-9225-4ef3-a376-b2dbdc171e15" />
+
 
 ## Run the Notebook
 
